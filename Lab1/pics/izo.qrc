@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/i">
+        <file>circle.jfif</file>
+        <file>par.png</file>
+        <file>rect.png</file>
+        <file>rho.jpg</file>
+        <file>sec.png</file>
+        <file>squar.jfif</file>
+        <file>trap.jfif</file>
+        <file>triang.png</file>
+    </qresource>
+</RCC>

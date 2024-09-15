@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>square.qrc</file>
+        <file>квадра5-21039c86ee9a.jfif</file>
+        <file>кругыч.jfif</file>
+        <file>параллел.png</file>
+        <file>прямоугpng.png</file>
+        <file>ромб.jpg</file>
+        <file>сектор.png</file>
+        <file>тапуцияjfif.jfif</file>
+        <file>треуг.png</file>
+    </qresource>
+</RCC>
